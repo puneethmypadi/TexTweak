@@ -1,0 +1,1 @@
+An noob attempt at writing a text editor based on the [Kilo](https://viewsourcecode.org/snaptoken/kilo/index.html) using Rust
